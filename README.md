@@ -1,4 +1,4 @@
-# azdc-training.github.io
+# multi-cloud-solutions.github.io/
 
 Landing page for azdc-training organization - have fun! 🚀
 
